@@ -1,0 +1,36 @@
+/*
+Theme Name: Shorn's Foundation
+Description: Shorn developed for his own use with foundation.
+Version: 1.0
+Author: Sean Batchelor
+Author URI: http://seanbatchelor.com
+Tags: Shorn, Responsive, Portfolio, Readiability, Articles
+
+*/
+
+
+
+.post {margin: 36px 0 0;}
+
+
+/* Captions */
+.aligncenter,
+div.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.wp-caption {
+	width: 100% !important;
+	color: #888;
+}
+
+.wp-caption img {
+}
+
+.wp-caption p.wp-caption-text {
+
+}
+/* End captions */
+
